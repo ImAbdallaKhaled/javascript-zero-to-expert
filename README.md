@@ -10,14 +10,15 @@ This repository is my personal playground and progress tracker while mastering m
 |---|------------------------------------------|-----------------|----------------------------------------------|
 | 1 | Intro                                    | ✅ Completed    |                                              |
 | 2 | JavaScript Basics                        | ✅ Completed    | [Go →](02-JavaScript-Basics)                 |
-| 3 | How JavaScript Works Behind the Scenes   | 🔄 In Progress  | [Go →](03-How-JS-Works)                      |
-| 4 | DOM Manipulation & Events                | ⏳ Not Started  |                                              |
-| 5 | Advanced DOM & Events                    | ⏳ Not Started  |                                              |
-| 6 | Object-Oriented Programming (OOP)        | ⏳ Not Started  |                                              |
-| 7 | Data Structures, Modern Operators & Strings | ⏳ Not Started |                                           |
-| 8 | Asynchronous JavaScript                  | ⏳ Not Started  |                                              |
-| 9 | Modern JavaScript Development (Modules, Tooling) | ⏳ Not Started |                                       |
-|10 | Final Projects (Bankist, Mapty, Forkify)  | ⏳ Not Started  |                                              |
+| 3 | DOM and Events [PROJECT]                 | 🔄 In Progress  |                                              |
+| 4 | How JavaScript Works Behind the Scenes   | 🔄 In Progress  | [Go →](03-How-JS-Works)                      |
+| 5 | DOM Manipulation & Events                | ⏳ Not Started  |                                              |
+| 6 | Advanced DOM & Events                    | ⏳ Not Started  |                                              |
+| 7 | Object-Oriented Programming (OOP)        | ⏳ Not Started  |                                              |
+| 8 | Data Structures, Modern Operators & Strings | ⏳ Not Started |                                           |
+| 9 | Asynchronous JavaScript                  | ⏳ Not Started  |                                              |
+| 10 | Modern JavaScript Development (Modules,Tooling) | ⏳ Not Started |                                       |
+|11 | Final Projects (Bankist, Mapty, Forkify)  | ⏳ Not Started  |                                              |
 
 *Last updated: November 20, 2025*
 
@@ -34,12 +35,11 @@ Most challenges are pure JavaScript:
 3. Open DevTools → Console to see the output
 
 ## 💡 Notes
-- I avoid `**` operator in early challenges (as requested by the course editor)
 - All solutions are 100% my own work (no copying from solutions)
 - Feel free to use this repo as inspiration, but try solving challenges yourself first!
 
 ## 📬 Connect
-- GitHub: [@abdullahabda](https://github.com/abdullahabda)
+- GitHub: [@ImAbdallaKhaled](https://github.com/ImAbdallaKhaled)
 
 Made with ❤️ and a lot of coffee while becoming a JavaScript ninja!
 
